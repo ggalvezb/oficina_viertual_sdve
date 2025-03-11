@@ -7,6 +7,7 @@
  * Comandos utiles:
  * Iniciar el servidor de desarrollo: npm run dev
  * Construir la aplicación para producción: npm run build
+ * Subir la aplicacion a GitHub: git push -u origin main
  * Subir la aplicación a Heroku: git push heroku main
  * 
  * 
