@@ -2,6 +2,14 @@
  * main.js
  *
  * Bootstraps Vuetify and other plugins then mounts the App`
+ * 
+ * 
+ * Comandos utiles:
+ * Iniciar el servidor de desarrollo: npm run dev
+ * Construir la aplicación para producción: npm run build
+ * Subir la aplicación a Heroku: git push heroku main
+ * 
+ * 
  */
 
 // Plugins
